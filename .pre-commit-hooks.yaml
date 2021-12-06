@@ -1,0 +1,6 @@
+-   id: yourhook
+    name: Name of your hook
+    description: pre-commit template hook
+    entry: yourhook
+    language: python
+    types: [python]
